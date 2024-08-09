@@ -240,7 +240,7 @@ Default Btn Style End
 Section Title Style 
 ===================================*/
 .section-title span {
-  color: #ff4a35;
+  color: #33b3b5;
   font-weight: 500;
   line-height: 0;
 }
@@ -343,7 +343,7 @@ Navbar Area
 }
 
 .main-nav nav .navbar-nav .nav-item:hover a, .main-nav nav .navbar-nav .nav-item .active {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .main-nav nav .navbar-nav .nav-item a {
@@ -359,11 +359,11 @@ Navbar Area
 }
 
 .main-nav nav .navbar-nav .nav-item a:hover, .main-nav nav .navbar-nav .nav-item a :focus {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .main-nav nav .navbar-nav .nav-item a.active {
-  color: #ff4a35 !important;
+  color: #33b3b5 !important;
 }
 
 .main-nav nav .navbar-nav .nav-item a.active i {
@@ -418,7 +418,7 @@ Navbar Area
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a.active {
   background-color: #f3f3f3;
   border-radius: .25rem;
-  color: #ff4a35 !important;
+  color: #33b3b5 !important;
 }
 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a::before {
@@ -428,7 +428,7 @@ Navbar Area
   left: 0;
   width: 0;
   height: 1px;
-  background-color: #ff4a35;
+  background-color: #33b3b5;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
@@ -438,14 +438,14 @@ Navbar Area
 }
 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover, .main-nav nav .navbar-nav .nav-item .dropdown-menu li a :focus, .main-nav nav .navbar-nav .nav-item .dropdown-menu li a .active {
-  color: #ff4a35 !important;
+  color: #33b3b5 !important;
   letter-spacing: 0.5px;
   background-color: #f3f3f3;
   border-radius: .25rem;
 }
 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li.active {
-  color: #ff4a35 !important;
+  color: #33b3b5 !important;
 }
 
 .menu-btn {
@@ -509,7 +509,7 @@ Navbar Area
 
 /* Mobile Nav */
 .mobile-nav .mean-container .mean-nav ul li a .active {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .mean-container a.meanmenu-reveal {
@@ -541,7 +541,7 @@ Main Banner Style
 }
 
 .banner-text span {
-  color: #ff4a35;
+  color: #33b3b5;
   font-weight: 500;
   margin-bottom: 10px;
 }
@@ -777,7 +777,7 @@ Brand Area
 }
 
 .brand-title span {
-  color: #ff4a35;
+  color: #33b3b5;
   font-weight: 500;
   line-height: 0;
 }
@@ -825,7 +825,7 @@ About Area
 }
 
 .about-content span {
-  color: #ff4a35;
+  color: #33b3b5;
   font-weight: 500;
   line-height: 0;
 }
@@ -1153,7 +1153,7 @@ Faq Area
 }
 
 .faq-content span {
-  color: #ff4a35;
+  color: #33b3b5;
   font-weight: 500;
   line-height: 0;
 }
@@ -1266,7 +1266,7 @@ Faq Area
 }
 
 .faq-content-text p a {
-  color: #ff4a35;
+  color: #33b3b5;
   text-decoration: underline;
 }
 
@@ -1366,7 +1366,7 @@ Portfolio Area
 
 .portfolio-item .portfolio-tag a span {
   color: #fff;
-  background-color: #ff4a35;
+  background-color: #33b3b5;
   padding: 7px 20px;
   border-radius: 50px;
   font-size: 13px;
@@ -1429,7 +1429,7 @@ Portfolio Area End
 Submission Area 
 ====================================*/
 .submission-area {
-  background-color: #ff4a35;
+  background-color: #33b3b5;
   position: relative;
   z-index: 1;
 }
@@ -1596,7 +1596,7 @@ Price Section
 
 .single-price:hover .get-btn {
   background-color: #fff;
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .single-price:hover ul li, .single-price:hover .single-price-title h2 {
@@ -1613,7 +1613,7 @@ Price Section
 
 .single-price.current .get-btn {
   background-color: #fff;
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .single-price.current ul li, .single-price.current .single-price-title h2 {
@@ -1626,11 +1626,11 @@ Price Section
 
 .single-price.current .get-btn {
   background-color: #fff;
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .single-price span {
-  color: #ff4a35;
+  color: #33b3b5;
   background-color: #fffbfb;
   padding: 10px 20px;
   border-radius: 50px;
@@ -1832,7 +1832,7 @@ Member Area End
 Counter Area 
 ====================================*/
 .counter-area {
-  background-color: #ff4a35;
+  background-color: #33b3b5;
   position: relative;
 }
 
@@ -1893,7 +1893,7 @@ Counter Area
   content: '';
   z-index: -1;
   position: absolute;
-  background-color: #ff4a35;
+  background-color: #33b3b5;
   top: 0;
   left: 0;
   right: 0;
@@ -2099,7 +2099,7 @@ Blog Card
 
 .blog-card .blog-content .blog-tag a span {
   padding: 7px 20px;
-  background-color: #ff4a35;
+  background-color: #33b3b5;
   color: #fff;
   border-radius: 50px;
   font-size: 13px;
@@ -2118,7 +2118,7 @@ Blog Card
 }
 
 .blog-card .blog-content .read-btn:hover {
-  color: #ff4a35;
+  color: #33b3b5;
   letter-spacing: .2px;
 }
 
@@ -2352,7 +2352,7 @@ Header Area
 }
 
 .header-content-right .header-contact li:hover {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .header-content-right .header-contact li a {
@@ -2476,7 +2476,7 @@ Banner Area
 }
 
 .banner-content .banner-content-btn .banner-play-btn .play-btn {
-  color: #ff4a35;
+  color: #33b3b5;
   position: relative;
 }
 
@@ -2489,7 +2489,7 @@ Banner Area
   text-align: center;
   font-size: 35px;
   border-radius: 50px;
-  color: #ff4a35;
+  color: #33b3b5;
   background-color: #fff;
   margin-right: 10px;
   -webkit-transition: 0.7s;
@@ -2693,7 +2693,7 @@ Subscribe Area
 .subscribe-area {
   margin-top: 25px;
   position: relative;
-  background-color: #ff4a35;
+  background-color: #33b3b5;
 }
 
 .subscribe-area::before {
@@ -2900,7 +2900,7 @@ Footer Area Another
 }
 
 .footer-bottom-2 .bottom-text-2 p a {
-  color: #ff4a35;
+  color: #33b3b5;
   font-weight: 500;
 }
 
@@ -2987,7 +2987,7 @@ Home Page Three Style
 }
 
 .other-side .search-area .search-item .search-overlay.search-popup .search-form .search-input:focus {
-  border-color: #ff4a35;
+  border-color: #33b3b5;
 }
 
 .other-side .search-area .search-item .search-overlay.search-popup .search-form .search-button {
@@ -3017,7 +3017,7 @@ Home Page Three Style
 }
 
 .other-side .search-area .search-item .search-overlay.search-popup .search-form .search-button:focus {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .other-side .search-area .search-item .search-btn {
@@ -3028,11 +3028,11 @@ Home Page Three Style
 }
 
 .other-side .search-area .search-item .search-btn:hover {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .other-side .search-area .search-item .search-btn:hover i {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .other-side .search-area .search-item .close-btn {
@@ -3048,7 +3048,7 @@ Home Page Three Style
 }
 
 .other-side .search-area .search-item .close-btn:hover {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .other-side .search-area .search-item .close-btn.active {
@@ -3081,7 +3081,7 @@ Home Page Three Style
 }
 
 .other-side .modal-menu a:hover {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 /* Sidebar Modal */
@@ -3164,7 +3164,7 @@ Home Page Three Style
 }
 
 .sidebar-modal .modal.right .modal-body .sidebar-modal-widget ul li a:hover {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .sidebar-modal .modal.right .modal-body .sidebar-modal-widget .contact-info {
@@ -3211,7 +3211,7 @@ Home Page Three Style
 
 .sidebar-modal .modal.right .modal-body .sidebar-modal-widget .contact-info li:hover i {
   color: #ffffff;
-  background: #ff4a35;
+  background: #33b3b5;
 }
 
 .sidebar-modal .modal.right .modal-body .sidebar-modal-widget .contact-info li:last-child {
@@ -3242,11 +3242,11 @@ Home Page Three Style
 }
 
 .sidebar-modal .modal.right .modal-body .sidebar-modal-widget .social-list li a i:hover {
-  background-color: #ff4a35;
+  background-color: #33b3b5;
 }
 
 .sidebar-modal .modal.right .modal-body .sidebar-modal-widget .social-list li a:hover {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .sidebar-modal .modal.right .modal-body .sidebar-modal-widget .social-list li:hover {
@@ -3360,7 +3360,7 @@ Inner Banner
 
 .inner-banner .inner-title ul li {
   font-size: 18px;
-  color: #ff4a35;
+  color: #33b3b5;
   display: inline-block;
   margin-right: 10px;
 }
@@ -3379,7 +3379,7 @@ Inner Banner
 }
 
 .inner-banner .inner-title ul li a:hover {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .inner-bg1 {
@@ -3430,7 +3430,7 @@ Pagination Area
 }
 
 .pagination-area .page-link {
-  color: #ff4a35;
+  color: #33b3b5;
   background-color: #ffffff;
   -webkit-box-shadow: 0 0 15px #d0d0d0;
           box-shadow: 0 0 15px #d0d0d0;
@@ -3454,8 +3454,8 @@ Pagination Area
 
 .pagination-area .page-link.current, .pagination-area .page-link:hover, .pagination-area .page-link:focus {
   color: #ffffff;
-  background-color: #ff4a35;
-  border: 1px solid #ff4a35;
+  background-color: #33b3b5;
+  border: 1px solid #33b3b5;
 }
 
 .pagination-area .page-item {
@@ -3473,8 +3473,8 @@ Pagination Area
 .pagination-area .page-item.current .page-link {
   z-index: 1;
   color: #ffffff;
-  background-color: #ff4a35;
-  border-color: #ff4a35;
+  background-color: #33b3b5;
+  border-color: #33b3b5;
 }
 
 /*================================
@@ -3662,7 +3662,7 @@ Blog Details Page
 }
 
 .blog-dtls-content .blog-text blockquote::before {
-  color: #ff4a35;
+  color: #33b3b5;
   content: "\ee83";
   position: absolute;
   left: 50px;
@@ -3724,12 +3724,12 @@ Blog Details Page
 }
 
 .blog-dtls-content .article-footer .article-tags a:hover {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .blog-dtls-content .article-footer span {
   display: inline-block;
-  color: #ff4a35;
+  color: #33b3b5;
   font-size: 20px;
   margin-right: 5px;
   position: relative;
@@ -3768,7 +3768,7 @@ Blog Details Page
   height: 32px;
   line-height: 33px;
   border-radius: 50%;
-  background-color: #ff4a35;
+  background-color: #33b3b5;
   text-align: center;
   font-size: 14px;
 }
@@ -4115,7 +4115,7 @@ Blog Details Page
 }
 
 .widget-area .widget_categories ul li::before {
-  background: #ff4a35;
+  background: #33b3b5;
   position: absolute;
   height: 7px;
   width: 7px;
@@ -4142,7 +4142,7 @@ Blog Details Page
 }
 
 .widget-area .widget_categories ul li a:hover {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .widget-area .widget_tag ul {
@@ -4166,7 +4166,7 @@ Blog Details Page
 }
 
 .widget-area .widget_tag ul li a:hover {
-  background-color: #ff4a35;
+  background-color: #33b3b5;
   color: #fff;
 }
 
@@ -4229,7 +4229,7 @@ Contact Page
 }
 
 .contact-card ul li a:hover {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .contact-wrap-form {
@@ -4307,7 +4307,7 @@ Contact Page
 .contact-wrap-form .forget {
   margin-bottom: 15px;
   float: right;
-  color: #ff4a35;
+  color: #33b3b5;
   font-weight: 600;
 }
 
@@ -4321,7 +4321,7 @@ Contact Page
 }
 
 .contact-wrap-form .account-desc a {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .contact-wrap-form .account-desc a:hover {
@@ -4329,7 +4329,7 @@ Contact Page
 }
 
 .contact-wrap-form .recover-login {
-  color: #ff4a35;
+  color: #33b3b5;
   font-weight: 600;
 }
 
@@ -4342,7 +4342,7 @@ Contact Page
 }
 
 .contact-wrap-form .recover-register a {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .contact-wrap-form .recover-register a:hover {
@@ -4443,13 +4443,13 @@ Single Content CSS End
 }
 
 .error-area .error-content h1 span {
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .error-area .error-content h3 {
   margin: 50px 0 0;
   position: relative;
-  color: #ff4a35;
+  color: #33b3b5;
 }
 
 .error-area .error-content p {
@@ -4492,9 +4492,9 @@ Back To Top Button
 }
 
 .top-btn:hover {
-  background: #ff4a35;
-  -webkit-box-shadow: 0 0 15px #ff4a35;
-          box-shadow: 0 0 15px #ff4a35;
+  background: #33b3b5;
+  -webkit-box-shadow: 0 0 15px #33b3b5;
+          box-shadow: 0 0 15px #33b3b5;
   color: #fff;
   -webkit-animation: none;
           animation: none;
@@ -4536,7 +4536,7 @@ Back To Top Button
   right: 0;
   left: 0;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: #33b3b5;
   -webkit-animation: wave-circle 1.6s linear infinite;
   animation: wave-circle 1.6s linear infinite;
 }
